@@ -22,4 +22,9 @@ OpenAI API Key (set in an environment variable as OPENAI_API_KEY)
 # 1. Clone the Repository:
 git clone https://github.com/yourusername/repoquest.git
 cd repoquest
+# 2. Set Up a Virtual Environment: It's recommended to create a virtual environment to manage dependencies.
+python -m venv env
+
+# 3. Activate the Virtual Environment:
+.\env\Scripts\activate
 
